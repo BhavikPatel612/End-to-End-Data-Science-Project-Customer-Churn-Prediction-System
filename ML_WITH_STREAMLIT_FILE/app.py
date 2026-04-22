@@ -3,7 +3,7 @@ import joblib
 import numpy as np
 
 # load model
-model = joblib.load("churn4_model.pkl")
+model = joblib.load("./ML_WITH_STREAMLIT_FILE/churn4_model.pkl")
 
 st.title("📞 Customer Churn Prediction")
 
