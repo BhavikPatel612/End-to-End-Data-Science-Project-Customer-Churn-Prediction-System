@@ -4,7 +4,7 @@ S – Situation
 
  • Telecom companies face difficulty in identifying customers who are likely to leave their services. Customer churn directly affects company revenue and business growth.
 
-T – Task
+T – Task 
 
 • My task was to develop a machine learning-based system that could analyze customer data and predict whether a customer is likely to churn or not.
 
