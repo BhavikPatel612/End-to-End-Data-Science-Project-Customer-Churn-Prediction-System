@@ -2,17 +2,17 @@
 Explanation using star method
 S – Situation
 
- • Telecom companies face difficulty in identifying customers who are likely to leave their services. Customer churn directly affects company revenue and business growth.
+ -  Telecom companies face difficulty in identifying customers who are likely to leave their services. Customer churn directly affects company revenue and business growth.
 
 T – Task 
 
-• My task was to develop a machine learning-based system that could analyze customer data and predict whether a customer is likely to churn or not.
+- My task was to develop a machine learning-based system that could analyze customer data and predict whether a customer is likely to churn or not.
 
 A – Action
 1. Excel Analysis
 
-⁕ Collected and analyzed the Telco Customer Churn dataset.
-⁕ Used Excel for initial data analysis and Pivot Charts.
+- Collected and analyzed the Telco Customer Churn dataset.
+-  Used Excel for initial data analysis and Pivot Charts.
 ⁕ Created Pivot Tables and Clustered Bar/Column Charts to analyze customer churn patterns.
 ⁕ Performed analysis such as:
 ⁕ Contract vs Churn
