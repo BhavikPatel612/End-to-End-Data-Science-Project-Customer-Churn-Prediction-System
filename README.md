@@ -1,14 +1,15 @@
 # End-to-End-Data-Science-Project-Customer-Churn-Prediction-System
-Explanation using star method
-S – Situation
+**Explanation using star method**
+
+**S – Situation**
 
  -  Telecom companies face difficulty in identifying customers who are likely to leave their services. Customer churn directly affects company revenue and business growth.
 
-T – Task 
+**T – Task** 
 
 - My task was to develop a machine learning-based system that could analyze customer data and predict whether a customer is likely to churn or not.
 
-A – Action
+**A – Action**
 1. Excel Analysis
 
 - Collected and analyzed the Telco Customer Churn dataset.
@@ -81,13 +82,13 @@ The Streamlit application:
 - Passes data to the trained model for prediction
 - Displays whether the customer will churn or not
 
-Key Insight:
+**Key Insight:**
 - Month-to-month customers and customers with high monthly charges had higher churn rates. 
 - New customers (low tenure) are more likely to churn    
 - Customers with fewer services tend to leave  
 - Electronic check users show higher churn behavior
 
-R – Result
+**R – Result**
 
 - The system successfully predicts customer churn and provides useful business insights through data analysis, machine learning, dashboards, and web deployment.
 
