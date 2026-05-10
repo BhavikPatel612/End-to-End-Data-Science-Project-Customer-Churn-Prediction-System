@@ -40,6 +40,7 @@ Performed analysis such as:
  
 
 3. Python EDA and Machine Learning
+
 In Python EDA, I analyzed customer churn patterns using different visualizations such as:
 - Count Plot
 - Bar Plot
